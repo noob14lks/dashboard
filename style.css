@@ -34,10 +34,12 @@ body{
 ul li{
     list-style: none;
     display: flex;
+    padding: 10px;
     gap: 5px;
 }
 
 .dash{
+    padding: 10px;
     list-style: none;
     display: flex;
     gap: 5px;
